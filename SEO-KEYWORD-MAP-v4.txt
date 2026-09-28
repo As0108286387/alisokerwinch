@@ -1,0 +1,30 @@
+Ali Soker SEO v4 — 2026-09-28
+
+Principle: preserve all existing pages, services, images and existing site content; improve search intent alignment, headings, metadata and internal linking.
+
+HOME
+Primary intent: ونش علي سكر / ونش إنقاذ سيارات
+Supporting terms: سحب السيارات، نقل السيارات، إنقاذ السيارات، العاشر من رمضان، القاهرة، الجيزة، واتساب
+
+SERVICES
+Primary intent: خدمات ونش علي سكر
+Supporting terms: سحب السيارات، نقل السيارات، إنقاذ الأعطال على الطريق، السيارات الفاخرة
+
+AREAS
+Primary intent: مناطق خدمة ونش علي سكر
+Supporting terms: القاهرة، الجيزة، العاشر من رمضان، والمدن والمناطق المدرجة في الصفحة
+
+PRICES
+Primary intent: أسعار ونش علي سكر
+Supporting terms: سعر سحب السيارة، سعر نقل السيارة، المسافة، نوع المركبة، طبيعة الخدمة
+
+ABOUT
+Primary intent: من نحن علي سكر
+Supporting terms: ونش الإنقاذ، سحب ونقل السيارات، نطاق الخدمة، معلومات النشاط
+
+CONTACT
+Primary intent: اتصل بعلي سكر
+Supporting terms: طلب ونش، سحب سيارة، نقل سيارة، واتساب، الهاتف، موقع السيارة
+
+Internal linking: every primary page now links contextually to related service/area/price/contact pages.
+No new keyword-stuffed city pages were created.
