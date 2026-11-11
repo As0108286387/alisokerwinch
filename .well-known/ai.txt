@@ -1,0 +1,8 @@
+# AI Policy for ونش إنقاذ سيارات علي سكر
+User-agent: *
+Allow: /
+Contact: https://wa.me/201031499181
+Content-Type: text/html
+Indexing: Allowed
+Training: Allowed
+Citation: Allowed
